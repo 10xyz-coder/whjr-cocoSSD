@@ -1,0 +1,19 @@
+body {
+  background: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
